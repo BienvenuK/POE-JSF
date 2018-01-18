@@ -10,7 +10,7 @@ import javax.faces.validator.ValidatorException;
 //544545
 @FacesValidator(value="nameValidator")
 public class NameValidator implements Validator{
-
+//bonjour
 	@Override
 	public void validate(FacesContext arg0, UIComponent arg1, Object value) throws ValidatorException {
 		
